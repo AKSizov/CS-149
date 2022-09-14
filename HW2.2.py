@@ -1,8 +1,8 @@
 # kilroy.py
 # hw 2.2
 
-print('''             """"
-            |.  .|
-    ----///---()---\\\----
+print('''\t         """"
+\t        |.  .|
+\t----///---()---\\\\\\----
 
-        Kilroy was here''')
+\t    Kilroy was here''')
