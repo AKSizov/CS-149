@@ -1,0 +1,24 @@
+Testing Terminal UI
+
+Enter integer 1-12: Your integer was 5
+Enter string: Your string was Go JMU!
+Want a hint? Enter
+"f" for first letter
+"s" for first slice
+"w" for whole word
+"n" for none: m
+Want a hint? Enter
+"f" for first letter
+"s" for first slice
+"w" for whole word
+"n" for none: magn
+Want a hint? Enter
+"f" for first letter
+"s" for first slice
+"w" for whole word
+"n" for none: magnetism
+Want a hint? Enter
+"f" for first letter
+"s" for first slice
+"w" for whole word
+"n" for none: 
